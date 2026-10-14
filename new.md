@@ -1,1 +1,1 @@
-new.md
+news.md
